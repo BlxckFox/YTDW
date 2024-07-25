@@ -1,2 +1,2 @@
 # YTDW
-YTVD - YouTube ideo Downloader.
+YTVD - YouTube Video Downloader.
